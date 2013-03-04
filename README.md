@@ -37,7 +37,7 @@ Windows下：
 
 import uvweb
 
-bjoern.run(wsgi_application, host, port)
+uvweb.run(wsgi_application, host, port)
 
 Django web 部署示例:
 
