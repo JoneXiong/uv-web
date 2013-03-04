@@ -20,11 +20,11 @@ python web应用(如 Django)
 
 安装
 -----------
-
+::
   linux/unix系统下：
   1.下载源码
   2. python setup.py install
-  
+::
   Windows下：
   1.下载源码，找到vc工程文件uv-web.sn(vs2008)，打开vc工程(在/vc-proj目录下)
   2.设置好libuv和python的 include目录和lib目录(可参考 [博客](http://www.cnblogs.com/johan/archive/2013/02/27/2935688.html) )
@@ -32,6 +32,7 @@ python web应用(如 Django)
 
 使用
 -----
+::
 一般运行方式
 import uvweb
 bjoern.run(wsgi_application, host, port)
