@@ -44,8 +44,10 @@ uvweb.listens(django.core.handlers.wsgi.WSGIHandler(), '0.0.0.0', 8080)
 
 测试
 -------
-在一般配置pc上，局域网环境下用ab工具做过一个简单的echo web程序测试windows下
+在一般配置pc上，局域网环境下用ab工具做过一个简单的echo web程序测试
+windows下
 Requests per second:    9655.44 [#/sec] 
+
 Ubuntu linux下
 Requests per second:    5216.36 [#/sec] 
 
