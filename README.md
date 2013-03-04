@@ -6,7 +6,7 @@ A  wsgi web server for python using libuv
 概述
 -------
 
-uv-web是一个轻量级的支持高并发的WSGI Web服务器，基于libuv构建，本质是python的C扩展，所以适用于部署绝大部分
+uv-web是一个轻量级的支持高并发的WSGI Web服务器，基于libuv构建，部分代码源于开源项目bjoern，本质是python的C扩展，所以适用于部署绝大部分
 python web应用(如 Django)
 
 特性
