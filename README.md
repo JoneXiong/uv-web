@@ -54,10 +54,10 @@ uvweb.listens(django.core.handlers.wsgi.WSGIHandler(), '0.0.0.0', 8080)
 
 windows下
 
-Requests per second:    9655.44 [#/sec] 
+Requests per second:    5216.36 [#/sec] 
 
 Ubuntu linux下
 
-Requests per second:    5216.36 [#/sec] 
+Requests per second:    9655.44 [#/sec] 
 
   
