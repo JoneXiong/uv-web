@@ -1,0 +1,27 @@
+uv-web wsgi environment variable enum
+
+{
+    'wsgi.multithread': True,
+    'SCRIPT_NAME': '',
+    'wsgi.input': <cStringIO.StringI object at 0x00A9C1A0 > ,
+    'REQUEST_METHOD': 'GET',
+    'HTTP_HOST': '127.0.0.1:8133',
+    'PATH_INFO': 'Qhuge',
+    'SERVER_PROTOCOL': 'HTTP/1.1',
+    'wsgi.version': (1, 0),
+    'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'HTTP_ACCEPT_CHARSET': 'GB2312,utf-8;q=0.7,*;q=0.7',
+    'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.1.19) Gecko/20110420 Firefox/3.5.19',
+    'HTTP_CONNECTION': 'keep-alive',
+    'SERVER_NAME': '0.0.0.0',
+    'REMOTE_ADDR': '127.0.0.1',
+    'wsgi.run_once': False,
+    'wsgi.errors': <open file '<stderr>',mode 'w'at 0x00AA30C0 > ,
+    'wsgi.multiprocess': True,
+    'HTTP_ACCEPT_LANGUAGE': 'zh-cn,zh;q=0.5',
+    'wsgi.url_scheme': 'http',
+    'SERVER_PORT': '8133',
+    'wsgi.file_wrapper': <type 'FileWrapper' > ,
+    'HTTP_ACCEPT_ENCODING': 'gzip,deflate',
+    'HTTP_KEEP_ALIVE': '300'
+}
